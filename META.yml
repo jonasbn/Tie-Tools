@@ -1,0 +1,10 @@
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         Tie-Tools
+version:      1.05
+version_from: lib/Tie/Tools.pm
+installdirs:  site
+requires:
+    Tie::Cache:                    0.08
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.12

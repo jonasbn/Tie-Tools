@@ -1,0 +1,13 @@
+From the original readme file
+
+I still have to document these classes.
+They are essential for HTML::HTPL but have their own use.
+
+TODO
+
+- Fix test.pl, it can still be tricky to use, since it used the installed 
+  version and not the one you are currently building when called like this:
+
+  % perl test.pl
+
+  When you just 'make test' there are no problems

@@ -1,0 +1,27 @@
+Revision history for Perl extension Tie::Tools.
+
+$Id: Changes,v 1.3 2003/12/08 21:10:33 jonasbn Exp $
+
+0.01  Mon Jul 10 20:08:19 2000
+	- original version; created by h2xs 1.19
+	
+1.05  Mon Dec  8 21:36:57 CET 2003
+	
+	- maintenance taken over by jonasbn <jonasbn@cpan.org>
+
+	- 1.03 was the latest working release I could find on CPAN, 1.04 is there, 
+	  but it seems empty.
+	 
+	- renamed manifest to MANIFEST, elimnating build warning
+	
+	- added module Tie::Tools and single point of entry for Tie::Tools
+	
+	- moved $VERSION for Tie::Tools from Tie::Func to Tie::Tools
+	
+	- moved readme content to newly added TODO
+	
+	- fixed breaking test (issuing warning instead of death sentence)
+	
+	- added verbosity flag to test.pl
+
+    - added CVS is tags to everything
