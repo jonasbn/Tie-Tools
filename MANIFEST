@@ -2,8 +2,3 @@ Changes
 MANIFEST
 Makefile.PL
 test.pl
-Collection.pm
-Depth.pm
-Func.pm
-NormalArray.pm
-Parent.pm
