@@ -1,6 +1,6 @@
 package Tie::DBI::ER;
 
-# $Id: ER.pm,v 1.2 2003/12/08 21:10:33 jonasbn Exp $
+# $Id: ER.pm 1049 2003-12-08 21:10:33Z jonasbn $
 
 use Tie::DBI;
 

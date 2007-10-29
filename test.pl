@@ -1,6 +1,6 @@
 # test script for Tie::Tools
 #
-# $Id: test.pl,v 1.3 2003/12/08 21:10:33 jonasbn Exp $
+# $Id: test.pl 1049 2003-12-08 21:10:33Z jonasbn $
 
 # Before `make install' is performed this script should be runnable with
 # `make test'. After `make install' it should work as `perl test.pl'

@@ -1,10 +1,12 @@
 package Tie::Collection;
 
-# $Id: Collection.pm,v 1.2 2003/12/08 21:10:33 jonasbn Exp $
+# $Id: Collection.pm 1883 2007-10-29 21:18:13Z jonasbn $
 
 use Tie::Cache;
 use strict;
-use vars qw(@ISA);
+use vars qw(@ISA $VERSION);
+
+$VERSION = '0.02';
 
 @ISA = qw(Tie::Cache);
 
@@ -34,6 +36,12 @@ sub write {
     my $bless = $self->{'Bless'};
     eval '$value->prestore;' if ($bless && ref($value) =~ /$bless/);
     $self->{'Storage'}->STORE($key, $value);
+}
+
+sub flush {
+    my ($self) = @_;
+    $self->{'Storage'}->sync();
+    $self->SUPER::flush();
 }
 
 1;

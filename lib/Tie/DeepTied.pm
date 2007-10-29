@@ -1,7 +1,7 @@
 package Tie::DeepTied;
 require Tie::Hash;
 
-# $Id: DeepTied.pm,v 1.2 2003/12/08 21:10:33 jonasbn Exp $
+# $Id: DeepTied.pm 1049 2003-12-08 21:10:33Z jonasbn $
 
 use strict qw(vars subs);
 use vars qw(@ISA);

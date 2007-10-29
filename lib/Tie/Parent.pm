@@ -1,6 +1,6 @@
 package Tie::Parent;
 
-# $Id: Parent.pm,v 1.2 2003/12/08 21:10:33 jonasbn Exp $
+# $Id: Parent.pm 1049 2003-12-08 21:10:33Z jonasbn $
 
 use strict;
 
