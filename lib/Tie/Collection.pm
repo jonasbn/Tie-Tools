@@ -6,7 +6,7 @@ use Tie::Cache;
 use strict;
 use vars qw(@ISA $VERSION);
 
-$VERSION = '0.02';
+$VERSION = '1.07';
 
 @ISA = qw(Tie::Cache);
 

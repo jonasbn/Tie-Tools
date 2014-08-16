@@ -6,6 +6,8 @@ $Id: Changes 1884 2007-10-29 21:25:10Z jonasbn $
 
 - Exchanging Makefile.PL based build system for Dist::Zilla
 
+- All version numbers aligned to upcoming release 1.07
+
 
 1.06 Mon Oct 29 22:23:43 CET 2007 (update not necessary)
 

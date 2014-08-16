@@ -6,8 +6,9 @@ use Tie::DBI;
 
 use strict qw(vars);
 
-use vars qw(@ISA);
+use vars qw(@ISA $VERSION);
 
+$VERSION = '1.07';
 @ISA = qw(Tie::DBI);
 
 sub TIEHASH {

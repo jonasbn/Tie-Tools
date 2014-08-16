@@ -5,7 +5,7 @@ package Tie::Func;
 use strict;
 use vars qw($VERSION);
 
-$VERSION = '1.03';
+$VERSION = '1.07';
 
 sub TIEHASH {
     my ($class, $fetch, $store, $del, %const) = @_;

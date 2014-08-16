@@ -4,8 +4,9 @@ require Tie::Hash;
 # $Id: DeepTied.pm 1049 2003-12-08 21:10:33Z jonasbn $
 
 use strict qw(vars subs);
-use vars qw(@ISA);
+use vars qw(@ISA $VERSION);
 
+$VERSION = '1.07';
 @ISA = qw(Tie::Hash);
 
 sub TIEHASH {
