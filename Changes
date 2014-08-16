@@ -2,6 +2,11 @@ Revision history for Perl extension Tie::Tools.
 
 $Id: Changes 1884 2007-10-29 21:25:10Z jonasbn $
 
+1.07 2014-08-16, maintenance release, update not required
+
+- Exchanging Makefile.PL based build system for Dist::Zilla
+
+
 1.06 Mon Oct 29 22:23:43 CET 2007 (update not necessary)
 
 - updated MANIFEST
@@ -22,12 +27,12 @@ $Id: Changes 1884 2007-10-29 21:25:10Z jonasbn $
 
 
 1.05 Mon Dec  8 21:36:57 CET 2003
-	
+
 - maintenance taken over by jonasbn <jonasbn@cpan.org>
 
 - 1.03 was the latest working release I could find on CPAN, 1.04 is
 there, but it seems empty.
- 
+
 - renamed manifest to MANIFEST, elimnating build warning
 
 - added module Tie::Tools and single point of entry for Tie::Tools
