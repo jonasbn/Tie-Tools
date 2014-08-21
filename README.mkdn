@@ -1,4 +1,6 @@
 [![CPAN version](https://badge.fury.io/pl/Tie-Tools.svg)](http://badge.fury.io/pl/Tie-Tools)
+[![Build Status](https://travis-ci.org/jonasbn/Tie-Tools.svg?branch=master)](https://travis-ci.org/jonasbn/Tie-Tools)
+[![Coverage Status](https://coveralls.io/repos/jonasbn/Tie-Tools/badge.png)](https://coveralls.io/r/jonasbn/Tie-Tools)
 
 NAME
     Tie::Tools - a collection of tying tools
