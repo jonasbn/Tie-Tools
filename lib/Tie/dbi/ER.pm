@@ -5,6 +5,7 @@ package Tie::DBI::ER;
 use Tie::DBI;
 
 use strict qw(vars);
+use warnings;
 
 use vars qw(@ISA $VERSION);
 

@@ -3,6 +3,7 @@ package Tie::NormalArray;
 # $Id: NormalArray.pm 1049 2003-12-08 21:10:33Z jonasbn $
 
 use strict;
+use warnings;
 use vars qw($VERSION);
 
 $VERSION = '1.07';

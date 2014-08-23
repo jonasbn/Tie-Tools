@@ -4,6 +4,7 @@ package Tie::Collection;
 
 use Tie::Cache;
 use strict;
+use warnings;
 use vars qw(@ISA $VERSION);
 
 $VERSION = '1.07';
