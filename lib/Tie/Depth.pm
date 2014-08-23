@@ -7,7 +7,7 @@ use strict qw(vars subs);
 use warnings;
 use vars qw(@ISA $VERSION);
 
-$VERSION = '1.07';
+$VERSION = '1.08';
 
 warn "Tie::Depth is depecrated, use Tie::DeepTied";
 

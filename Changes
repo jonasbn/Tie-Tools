@@ -2,6 +2,11 @@ Revision history for Perl extension Tie::Tools.
 
 $Id: Changes 1884 2007-10-29 21:25:10Z jonasbn $
 
+1.08 2014-08-23, maintenance release, update not required
+
+- Added warnings to all modules
+
+
 1.07 2014-08-16, maintenance release, update not required
 
 - Exchanging Makefile.PL based build system for Dist::Zilla
