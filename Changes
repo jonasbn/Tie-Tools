@@ -1,8 +1,13 @@
-Revision history for Perl extension Tie::Tools.
+Revision history for Perl extension Tie::Tools
 
-$Id: Changes 1884 2007-10-29 21:25:10Z jonasbn $
+1.09 2014-09-19 maintenance release, update not required
 
-1.08 2014-08-23, maintenance release, update not required
+- Added Perl::Critic configuration, no code changed for now
+
+- Added documentation on subroutines
+
+
+1.08 2014-08-23 maintenance release, update not required
 
 - Added warnings to all modules
 
