@@ -6,6 +6,8 @@ Revision history for Perl extension Tie::Tools
 
 - Added documentation on subroutines
 
+- test.pl deleted, obsoleted by migration to Dist::Zilla
+
 
 1.08 2014-08-23 maintenance release, update not required
 
