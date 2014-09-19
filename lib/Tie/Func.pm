@@ -71,6 +71,8 @@ __END__
 
 =head1 NAME
 
+Tie::Func
+
 =head1 SYNOPSIS
 
 =head1 DESCRIPTION

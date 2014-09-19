@@ -1,9 +1,10 @@
 package Tie::DeepTied;
-require Tie::Hash;
 
 use strict qw(vars subs);
 use warnings;
 use vars qw(@ISA $VERSION);
+
+require Tie::Hash;
 
 $VERSION = '1.08';
 @ISA = qw(Tie::Hash);
@@ -79,6 +80,8 @@ sub NEXTKEY {
 __END__
 
 =head1 NAME
+
+Tie::DeepTied
 
 =head1 SYNOPSIS
 

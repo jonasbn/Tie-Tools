@@ -67,6 +67,8 @@ __END__
 
 =head1 NAME
 
+Tie::NormalArray
+
 =head1 SYNOPSIS
 
 =head1 DESCRIPTION

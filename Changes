@@ -1,10 +1,10 @@
 Revision history for Perl extension Tie::Tools
 
-1.09 2014-09-19 maintenance release, update not required
+1.09 2014-09-21 maintenance release, update not required
 
 - Added Perl::Critic configuration, no code changed for now
 
-- Added documentation on subroutines
+- Added documentation placeholders for subroutines
 
 - test.pl deleted, obsoleted by migration to Dist::Zilla
 

@@ -93,6 +93,8 @@ __END__
 
 =head1 NAME
 
+Tie::DBI::ER
+
 =head1 SYNOPSIS
 
 =head1 DESCRIPTION

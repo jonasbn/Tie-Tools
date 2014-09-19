@@ -31,6 +31,8 @@ __END__
 
 =head1 NAME
 
+Tie::Parent
+
 =head1 SYNOPSIS
 
 =head1 DESCRIPTION
