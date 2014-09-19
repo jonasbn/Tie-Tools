@@ -10,7 +10,9 @@ $VERSION = '1.08';
 
 1;
 
-__END__;
+__END__
+
+=pod
 
 =head1 NAME
 
@@ -22,31 +24,21 @@ Tie::Tools consist of several modules each in their own namespace.
 
 =over 4
 
-=item
+=item * L<Tie::DeepTied>
 
-Tie::DeepTied
+=item * L<Tie::Depth>
 
-=item
+=item * L<Tie::Func>
 
-Tie::Depth
+=item * L<Tie::NormalArray>
 
-=item
-
-Tie::Func
-
-=item
-
-Tie::NormalArray
-
-=item
-
-Tie::Parent
+=item * L<Tie::Parent>
 
 =back
 
 =cut
 
-=head1 COPYRIGHT
+=head1 LICENSE
 
 Tie::Tools is free software and is released under the Artistic License.
 See <http://www.perl.com/language/misc/Artistic.html> for details.
@@ -66,6 +58,10 @@ Jonas B. Nielsen <jonasbn@cpan.org>
 
 =head1 ACKNOWLEDGEMENTS
 
-- patch from Brian Dowling resulting in release 1.06
+=over
+
+=item * patch from Brian Dowling resulting in release 1.06
+
+=back
 
 =cut

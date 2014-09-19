@@ -49,6 +49,8 @@ sub flush {
 
 __END__
 
+=pod
+
 =head1 NAME
 
 Tie::Collection - A trivial implementaion of Tie::Cache by using a tied
@@ -77,6 +79,16 @@ again and again.
 
 Tie::Collection needs two parameters: The handled of the tied hash, and a
 hashref with parameters to pass to B<Tie::Cache>. (See manpage).
+
+=head1 SUBROUTINES/METHODS
+
+=head2 TIEHASH
+
+=head2 read
+
+=head2 write
+
+=head2 flush
 
 =head1 AUTHOR
 
