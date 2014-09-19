@@ -1,7 +1,5 @@
 package Tie::Tools;
 
-# $Id: Tools.pm 1884 2007-10-29 21:25:10Z jonasbn $
-
 use strict;
 use warnings;
 use vars qw($VERSION);

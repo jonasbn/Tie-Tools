@@ -1,7 +1,5 @@
 package Tie::Collection;
 
-# $Id: Collection.pm 1883 2007-10-29 21:18:13Z jonasbn $
-
 use Tie::Cache;
 use strict;
 use warnings;

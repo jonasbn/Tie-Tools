@@ -1,7 +1,5 @@
 package Tie::DBI::ER;
 
-# $Id: ER.pm 1049 2003-12-08 21:10:33Z jonasbn $
-
 use Tie::DBI;
 
 use strict qw(vars);

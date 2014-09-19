@@ -1,8 +1,6 @@
 package Tie::DeepTied;
 require Tie::Hash;
 
-# $Id: DeepTied.pm 1049 2003-12-08 21:10:33Z jonasbn $
-
 use strict qw(vars subs);
 use warnings;
 use vars qw(@ISA $VERSION);
