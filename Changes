@@ -8,6 +8,8 @@ Revision history for Perl extension Tie::Tools
 
 - test.pl deleted, obsoleted by migration to Dist::Zilla
 
+- TODO file practically completed, so it has been deleted
+
 
 1.08 2014-08-23 maintenance release, update not required
 
