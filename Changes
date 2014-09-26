@@ -1,5 +1,10 @@
 Revision history for Perl extension Tie::Tools
 
+1.10 2014-09-26 maintenance release, update not required
+
+- Added missing dependency Test::Class
+
+
 1.09 2014-09-24 maintenance release, update not required
 
 - Added Perl::Critic configuration, no code changed for now
