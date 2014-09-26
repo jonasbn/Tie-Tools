@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use vars qw($VERSION);
 
-$VERSION = '1.09';
+$VERSION = '1.10';
 
 sub TIEHASH {
     my ($class, $fetch, $store, $del, %const) = @_;

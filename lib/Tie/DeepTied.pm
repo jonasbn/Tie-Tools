@@ -6,7 +6,7 @@ use vars qw(@ISA $VERSION);
 
 require Tie::Hash;
 
-$VERSION = '1.09';
+$VERSION = '1.10';
 @ISA = qw(Tie::Hash);
 
 sub TIEHASH {
